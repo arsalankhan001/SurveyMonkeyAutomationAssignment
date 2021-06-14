@@ -5129,3 +5129,643 @@
 06/14/2021 03:00:25 AM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
 06/14/2021 03:00:45 AM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
 06/14/2021 03:00:46 AM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 12:44:33 PM - loginPage - INFO: Element not found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 12:44:33 PM - loginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 12:44:36 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 12:44:36 PM - loginPage - INFO: Cannot send data on the element with locator: username locatorType: id
+06/14/2021 12:44:36 PM - loginPage - INFO: Element not found with locator: password and  locatorType: id
+06/14/2021 12:44:36 PM - loginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+06/14/2021 12:44:36 PM - loginPage - INFO: Element not found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 12:44:36 PM - loginPage - INFO: Cannot click on the element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 12:44:36 PM - loginPage - INFO: Element not found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 12:44:36 PM - loginPage - INFO: Cannot click on the element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 12:44:36 PM - loginPage - INFO: Element not found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 12:44:36 PM - loginPage - INFO: Cannot click on the element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 12:44:36 PM - loginPage - INFO: Element not found with locator: surveyTitle and  locatorType: id
+06/14/2021 12:44:36 PM - loginPage - INFO: Cannot send data on the element with locator: surveyTitle locatorType: id
+06/14/2021 12:46:15 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 12:46:30 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 12:46:30 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 12:46:31 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 12:46:31 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 12:46:31 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 12:46:31 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 12:46:55 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 12:46:55 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 12:47:08 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 12:47:08 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 12:47:09 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 12:47:09 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 12:47:09 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 12:47:09 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 12:47:09 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 12:47:29 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 12:47:30 PM - loginPage - INFO: Clicked on element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 12:47:30 PM - loginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+06/14/2021 12:47:30 PM - loginPage - INFO: Sent data on element with locator: pageTitle locatorType: id
+06/14/2021 12:47:30 PM - loginPage - INFO: Element found with locator: pageSubtitle and  locatorType: id
+06/14/2021 12:47:31 PM - loginPage - INFO: Sent data on element with locator: pageSubtitle locatorType: id
+06/14/2021 12:47:31 PM - loginPage - INFO: Element found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 12:47:31 PM - loginPage - INFO: Clicked on element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 12:47:31 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 12:47:42 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 12:47:42 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 12:47:42 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 12:47:50 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 12:48:01 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 12:48:06 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 12:48:06 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 12:48:06 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 12:48:07 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 12:48:12 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 12:48:12 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 12:48:12 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[2]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 12:48:22 PM - loginPage - INFO: Cannot send data on the element with locator: //table[@id='rows']//child::tbody//child::tr[2]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 12:48:27 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 12:48:27 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 12:48:27 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 12:48:28 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 12:48:33 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 12:48:33 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 12:48:33 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 12:48:33 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 12:48:53 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 12:48:53 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 12:54:58 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 12:55:12 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 12:55:12 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 12:55:12 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 12:55:12 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 12:55:12 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 12:55:12 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 12:56:19 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 12:56:19 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 12:56:36 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 12:56:37 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 12:56:37 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 12:56:37 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 12:56:37 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 12:56:37 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 12:56:37 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 12:56:50 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 12:56:51 PM - loginPage - INFO: Clicked on element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 12:56:51 PM - loginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+06/14/2021 12:56:51 PM - loginPage - INFO: Sent data on element with locator: pageTitle locatorType: id
+06/14/2021 12:56:51 PM - loginPage - INFO: Element found with locator: pageSubtitle and  locatorType: id
+06/14/2021 12:56:51 PM - loginPage - INFO: Sent data on element with locator: pageSubtitle locatorType: id
+06/14/2021 12:56:51 PM - loginPage - INFO: Element found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 12:56:51 PM - loginPage - INFO: Cannot click on the element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 12:56:51 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 12:57:02 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 12:57:12 PM - loginPage - INFO: Element not found with locator: editTitle and  locatorType: id
+06/14/2021 12:57:12 PM - loginPage - INFO: Cannot send data on the element with locator: editTitle locatorType: id
+06/14/2021 12:57:22 PM - loginPage - INFO: Element not found with locator: changeQType and  locatorType: id
+06/14/2021 12:57:22 PM - loginPage - INFO: Cannot click on the element with locator: changeQType locatorType: id
+06/14/2021 12:57:32 PM - loginPage - INFO: Element not found with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a and  locatorType: xpath
+06/14/2021 12:57:32 PM - loginPage - INFO: Cannot click on the element with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a locatorType: xpath
+06/14/2021 12:57:32 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 12:57:42 PM - loginPage - INFO: Cannot click on the element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 12:57:52 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 12:57:53 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 12:58:15 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 12:58:21 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 12:58:21 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 12:58:21 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 12:58:21 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 12:58:21 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 12:58:21 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 12:58:24 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 12:58:24 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 12:58:25 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 12:58:27 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 12:58:28 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 12:58:28 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 12:58:28 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 12:58:28 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 12:58:28 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 12:58:34 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 12:58:35 PM - loginPage - INFO: Clicked on element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 12:58:35 PM - loginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+06/14/2021 12:58:36 PM - loginPage - INFO: Sent data on element with locator: pageTitle locatorType: id
+06/14/2021 12:58:36 PM - loginPage - INFO: Element found with locator: pageSubtitle and  locatorType: id
+06/14/2021 12:58:36 PM - loginPage - INFO: Sent data on element with locator: pageSubtitle locatorType: id
+06/14/2021 12:58:36 PM - loginPage - INFO: Element found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 12:58:36 PM - loginPage - INFO: Clicked on element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 12:58:36 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 12:58:47 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 12:58:47 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 12:58:48 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 12:58:48 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 12:58:48 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 12:58:48 PM - loginPage - INFO: Element found with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a and  locatorType: xpath
+06/14/2021 12:58:48 PM - loginPage - INFO: Clicked on element with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a locatorType: xpath
+06/14/2021 12:58:48 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 12:58:49 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 12:58:59 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 12:58:59 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 10:48:03 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 10:48:16 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 10:48:16 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 10:48:16 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 10:48:16 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 10:48:16 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 10:48:16 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 10:48:17 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 10:48:25 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 10:48:35 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 10:48:35 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 10:48:36 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 10:48:36 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 10:48:36 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 10:48:36 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 10:48:36 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 10:48:46 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 10:48:47 PM - loginPage - INFO: Clicked on element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 10:48:47 PM - loginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+06/14/2021 10:48:47 PM - loginPage - INFO: Sent data on element with locator: pageTitle locatorType: id
+06/14/2021 10:48:47 PM - loginPage - INFO: Element found with locator: pageSubtitle and  locatorType: id
+06/14/2021 10:48:48 PM - loginPage - INFO: Sent data on element with locator: pageSubtitle locatorType: id
+06/14/2021 10:48:48 PM - loginPage - INFO: Element found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 10:48:48 PM - loginPage - INFO: Clicked on element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 10:48:48 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 10:48:59 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 10:48:59 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 10:48:59 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 10:49:07 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 10:49:18 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 10:49:23 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 10:49:24 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 10:49:24 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 10:49:24 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 10:49:29 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 10:49:29 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 10:49:29 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[3]/td[1]/div/span and  locatorType: xpath
+06/14/2021 10:49:39 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[3]/td[1]/div/span locatorType: xpath
+06/14/2021 10:49:44 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span and  locatorType: xpath
+06/14/2021 10:49:55 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span locatorType: xpath
+06/14/2021 10:49:55 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span and  locatorType: xpath
+06/14/2021 10:50:05 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span locatorType: xpath
+06/14/2021 10:50:10 PM - loginPage - INFO: Element not found with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span and  locatorType: xpath
+06/14/2021 10:50:10 PM - loginPage - INFO: Cannot send data on the element with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span locatorType: xpath
+06/14/2021 10:50:10 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 10:50:10 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 10:50:30 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 10:50:30 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 11:06:41 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 11:06:51 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 11:06:51 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 11:06:51 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 11:06:51 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 11:06:51 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 11:06:51 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 11:07:02 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 11:07:02 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 11:07:15 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 11:07:15 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 11:07:16 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 11:07:16 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 11:07:16 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 11:07:17 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 11:07:17 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 11:07:33 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 11:07:34 PM - loginPage - INFO: Cannot click on the element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 11:07:44 PM - loginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+06/14/2021 11:07:44 PM - loginPage - INFO: Cannot send data on the element with locator: pageTitle locatorType: id
+06/14/2021 11:07:54 PM - loginPage - INFO: Element not found with locator: pageSubtitle and  locatorType: id
+06/14/2021 11:07:54 PM - loginPage - INFO: Cannot send data on the element with locator: pageSubtitle locatorType: id
+06/14/2021 11:08:04 PM - loginPage - INFO: Element not found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 11:08:04 PM - loginPage - INFO: Cannot click on the element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 11:08:04 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:08:15 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:08:15 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:08:15 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:08:23 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:08:34 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:08:39 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:08:40 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:08:40 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:08:40 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:08:45 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:08:46 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:08:46 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:08:46 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:08:51 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:08:59 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span locatorType: xpath
+06/14/2021 11:08:59 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:08:59 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span locatorType: xpath
+06/14/2021 11:09:04 PM - loginPage - INFO: Element not found with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:09:04 PM - loginPage - INFO: Cannot send data on the element with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span locatorType: xpath
+06/14/2021 11:09:04 PM - loginPage - INFO: Element not found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:09:04 PM - loginPage - INFO: Cannot click on the element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:09:24 PM - loginPage - INFO: Element not found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 11:09:24 PM - loginPage - INFO: Cannot click on the element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 11:15:42 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 11:15:50 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 11:15:50 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 11:15:50 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 11:15:50 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 11:15:50 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 11:15:50 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 11:15:55 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 11:15:56 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 11:16:01 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 11:16:01 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 11:16:02 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 11:16:02 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 11:16:02 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 11:16:03 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 11:16:03 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 11:16:14 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 11:16:15 PM - loginPage - INFO: Clicked on element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 11:16:15 PM - loginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+06/14/2021 11:16:15 PM - loginPage - INFO: Sent data on element with locator: pageTitle locatorType: id
+06/14/2021 11:16:16 PM - loginPage - INFO: Element found with locator: pageSubtitle and  locatorType: id
+06/14/2021 11:16:16 PM - loginPage - INFO: Sent data on element with locator: pageSubtitle locatorType: id
+06/14/2021 11:16:16 PM - loginPage - INFO: Element found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 11:16:16 PM - loginPage - INFO: Clicked on element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 11:16:16 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:16:27 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:16:27 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:16:28 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:16:36 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:16:47 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:16:52 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:16:52 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:16:52 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:16:52 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:16:58 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:16:58 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:16:58 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::span[@class='placeholder'] and  locatorType: xpath
+06/14/2021 11:16:58 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::span[@class='placeholder'] locatorType: xpath
+06/14/2021 11:17:03 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:17:13 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span locatorType: xpath
+06/14/2021 11:17:13 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:17:24 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span locatorType: xpath
+06/14/2021 11:17:29 PM - loginPage - INFO: Element not found with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:17:29 PM - loginPage - INFO: Cannot send data on the element with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span locatorType: xpath
+06/14/2021 11:17:29 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:17:29 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:17:49 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 11:17:49 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 11:19:23 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 11:19:29 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 11:19:29 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 11:19:29 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 11:19:29 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 11:19:30 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 11:19:30 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 11:19:36 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 11:19:37 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 11:19:45 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 11:19:45 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 11:19:46 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 11:19:46 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 11:19:46 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 11:19:46 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 11:19:46 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 11:19:58 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 11:20:00 PM - loginPage - INFO: Cannot click on the element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 11:20:10 PM - loginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+06/14/2021 11:20:10 PM - loginPage - INFO: Cannot send data on the element with locator: pageTitle locatorType: id
+06/14/2021 11:20:20 PM - loginPage - INFO: Element not found with locator: pageSubtitle and  locatorType: id
+06/14/2021 11:20:20 PM - loginPage - INFO: Cannot send data on the element with locator: pageSubtitle locatorType: id
+06/14/2021 11:20:30 PM - loginPage - INFO: Element not found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 11:20:30 PM - loginPage - INFO: Cannot click on the element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 11:20:30 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:20:41 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:20:41 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:20:41 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:20:49 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:21:01 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:21:06 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:21:06 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:21:06 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:21:06 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:21:12 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:21:13 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:21:13 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:21:13 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:21:18 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:21:28 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[4]/td[1]/div/span locatorType: xpath
+06/14/2021 11:21:28 PM - loginPage - INFO: Element found with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:21:36 PM - loginPage - INFO: Cannot send data on the element with locator: //tbody[@class='answerSettingMatrix singleLine']/tr[5]/td[1]/div/span locatorType: xpath
+06/14/2021 11:21:53 PM - loginPage - INFO: Element not found with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span and  locatorType: xpath
+06/14/2021 11:21:53 PM - loginPage - INFO: Cannot send data on the element with locator: ///tbody[@class='answerSettingMatrix singleLine']/tr[6]/td[1]/div/span locatorType: xpath
+06/14/2021 11:22:05 PM - loginPage - INFO: Element not found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:22:05 PM - loginPage - INFO: Cannot click on the element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:22:38 PM - loginPage - INFO: Element not found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 11:22:38 PM - loginPage - INFO: Cannot click on the element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 11:29:14 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 11:29:51 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 11:29:51 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 11:29:51 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 11:29:51 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 11:29:51 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 11:29:51 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 11:30:24 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 11:30:24 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 11:30:33 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 11:30:33 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 11:30:34 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 11:30:34 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 11:30:34 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 11:30:35 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 11:30:35 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 11:30:52 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 11:30:53 PM - loginPage - INFO: Clicked on element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 11:30:53 PM - loginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+06/14/2021 11:30:53 PM - loginPage - INFO: Sent data on element with locator: pageTitle locatorType: id
+06/14/2021 11:30:54 PM - loginPage - INFO: Element found with locator: pageSubtitle and  locatorType: id
+06/14/2021 11:30:54 PM - loginPage - INFO: Sent data on element with locator: pageSubtitle locatorType: id
+06/14/2021 11:30:54 PM - loginPage - INFO: Element found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 11:30:54 PM - loginPage - INFO: Clicked on element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 11:30:54 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:31:05 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:31:05 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:31:06 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:31:14 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:31:25 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:31:30 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:31:30 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:31:30 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:31:30 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:31:35 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:31:36 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:31:36 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:31:36 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:31:42 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:31:42 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:31:42 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:31:42 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:31:48 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:31:48 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:31:48 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:31:48 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:32:21 PM - loginPage - INFO: Element not found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 11:32:21 PM - loginPage - INFO: Cannot click on the element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 11:33:32 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 11:33:41 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 11:33:41 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 11:33:41 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 11:33:41 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 11:33:41 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 11:33:41 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 11:33:53 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 11:33:53 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 11:34:14 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 11:34:14 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 11:34:14 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 11:34:15 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 11:34:15 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 11:34:15 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 11:34:15 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 11:34:43 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 11:34:45 PM - loginPage - INFO: Cannot click on the element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 11:34:55 PM - loginPage - INFO: Element not found with locator: pageTitle and  locatorType: id
+06/14/2021 11:34:55 PM - loginPage - INFO: Cannot send data on the element with locator: pageTitle locatorType: id
+06/14/2021 11:35:05 PM - loginPage - INFO: Element not found with locator: pageSubtitle and  locatorType: id
+06/14/2021 11:35:05 PM - loginPage - INFO: Cannot send data on the element with locator: pageSubtitle locatorType: id
+06/14/2021 11:35:15 PM - loginPage - INFO: Element not found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 11:35:15 PM - loginPage - INFO: Cannot click on the element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 11:35:15 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:35:15 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:35:15 PM - loginPage - INFO: Element found with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] and  locatorType: xpath
+06/14/2021 11:35:16 PM - loginPage - INFO: Clicked on element with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] locatorType: xpath
+06/14/2021 11:35:16 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:35:27 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:35:27 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:35:27 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:35:27 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:35:38 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:35:38 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:35:39 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:35:49 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:35:49 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:35:54 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:36:05 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:36:05 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:36:05 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:36:05 PM - loginPage - INFO: Element found with locator: //body[@id='create']/ul//ul[@class='add-q-menu-left']/li[1]/div/a[@href='#']/span[@class='listText'] and  locatorType: xpath
+06/14/2021 11:36:06 PM - loginPage - INFO: Clicked on element with locator: //body[@id='create']/ul//ul[@class='add-q-menu-left']/li[1]/div/a[@href='#']/span[@class='listText'] locatorType: xpath
+06/14/2021 11:36:06 PM - loginPage - INFO: Element found with locator: //tbody/tr[4]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:36:07 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[4]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:36:07 PM - loginPage - INFO: Element found with locator: //tbody/tr[5]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:36:07 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[5]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:36:07 PM - loginPage - INFO: Element found with locator: //tbody/tr[6]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:36:08 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[6]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:36:08 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:36:08 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:36:08 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:36:19 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:36:19 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:36:20 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:36:20 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:36:20 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:36:20 PM - loginPage - INFO: Element found with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a and  locatorType: xpath
+06/14/2021 11:36:20 PM - loginPage - INFO: Clicked on element with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a locatorType: xpath
+06/14/2021 11:36:20 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:36:21 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:36:29 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:36:29 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:36:29 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:36:40 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:36:40 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:36:41 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:36:55 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:36:55 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:37:13 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:37:14 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:37:29 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:37:29 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:37:36 PM - loginPage - INFO: Element found with locator: //tbody/tr[4]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:37:37 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[4]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:37:37 PM - loginPage - INFO: Element found with locator: //tbody/tr[5]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:37:37 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[5]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:37:37 PM - loginPage - INFO: Element found with locator: //tbody/tr[6]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:37:38 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[6]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:37:38 PM - loginPage - INFO: Element found with locator: //tbody/tr[7]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:37:38 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[7]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:37:38 PM - loginPage - INFO: Element found with locator: //tbody/tr[8]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:37:39 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[8]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:37:39 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:37:39 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:37:39 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:37:51 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:37:51 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:37:51 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:37:59 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:38:10 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:38:15 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:38:16 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:38:16 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:38:16 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:38:21 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:38:22 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:38:22 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:38:23 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:38:28 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:38:28 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:38:28 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:38:29 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:38:34 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:38:34 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:38:34 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:38:35 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:38:55 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:38:55 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:38:55 PM - loginPage - INFO: Element found with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] and  locatorType: xpath
+06/14/2021 11:38:55 PM - loginPage - INFO: Clicked on element with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] locatorType: xpath
+06/14/2021 11:38:55 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:39:06 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:39:07 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:39:07 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:39:07 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:39:18 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:39:18 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:39:18 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:39:28 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:39:39 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:39:39 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:39:40 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:39:59 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:39:59 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:40:09 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:40:20 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:40:20 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:40:20 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:40:20 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:40:22 PM - loginPage - INFO: Cannot click on the element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:40:32 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 11:40:32 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath
+06/14/2021 11:43:44 PM - loginPage - INFO: Element found with locator: //a[contains(text(),'Log in')] and  locatorType: xpath
+06/14/2021 11:43:50 PM - loginPage - INFO: Clicked on element with locator: //a[contains(text(),'Log in')] locatorType: xpath
+06/14/2021 11:43:50 PM - loginPage - INFO: Element found with locator: username and  locatorType: id
+06/14/2021 11:43:50 PM - loginPage - INFO: Sent data on element with locator: username locatorType: id
+06/14/2021 11:43:50 PM - loginPage - INFO: Element found with locator: password and  locatorType: id
+06/14/2021 11:43:50 PM - loginPage - INFO: Sent data on element with locator: password locatorType: id
+06/14/2021 11:43:50 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  and  locatorType: xpath
+06/14/2021 11:43:55 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--stretch wds-button--icon-right wds-button--arrow-right' and contains(text(),'LOG IN')]  locatorType: xpath
+06/14/2021 11:43:56 PM - loginPage - INFO: Element found with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] and  locatorType: xpath
+06/14/2021 11:44:01 PM - loginPage - INFO: Clicked on element with locator: //div[@id='hd']//a[@class='create-survey alt btn SL_split'] locatorType: xpath
+06/14/2021 11:44:02 PM - loginPage - INFO: Element found with locator: //button[contains(text(), 'Start from scratch')] and  locatorType: xpath
+06/14/2021 11:44:02 PM - loginPage - INFO: Clicked on element with locator: //button[contains(text(), 'Start from scratch')] locatorType: xpath
+06/14/2021 11:44:03 PM - loginPage - INFO: Element found with locator: surveyTitle and  locatorType: id
+06/14/2021 11:44:03 PM - loginPage - INFO: Sent data on element with locator: surveyTitle locatorType: id
+06/14/2021 11:44:03 PM - loginPage - INFO: Element found with locator: newSurvey and  locatorType: id
+06/14/2021 11:44:03 PM - loginPage - INFO: Clicked on element with locator: newSurvey locatorType: id
+06/14/2021 11:44:12 PM - loginPage - INFO: Element found with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  and  locatorType: xpath
+06/14/2021 11:44:14 PM - loginPage - INFO: Clicked on element with locator: //div[@class='page-title-container page-title-container-v3 clearfix']//span[@class='page-title user-generated empty wds-button wds-button--ghost-filled wds-button--sm']  locatorType: xpath
+06/14/2021 11:44:14 PM - loginPage - INFO: Element found with locator: pageTitle and  locatorType: id
+06/14/2021 11:44:14 PM - loginPage - INFO: Sent data on element with locator: pageTitle locatorType: id
+06/14/2021 11:44:14 PM - loginPage - INFO: Element found with locator: pageSubtitle and  locatorType: id
+06/14/2021 11:44:15 PM - loginPage - INFO: Sent data on element with locator: pageSubtitle locatorType: id
+06/14/2021 11:44:15 PM - loginPage - INFO: Element found with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] and  locatorType: xpath
+06/14/2021 11:44:15 PM - loginPage - INFO: Clicked on element with locator: //form[@id='pageTitleForm']//a[@class='wds-button wds-button--sm save' and contains(text(),'SAVE')] locatorType: xpath
+06/14/2021 11:44:17 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:44:17 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:44:17 PM - loginPage - INFO: Element found with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] and  locatorType: xpath
+06/14/2021 11:44:18 PM - loginPage - INFO: Clicked on element with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] locatorType: xpath
+06/14/2021 11:44:18 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:44:30 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:44:30 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:44:30 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:44:30 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:44:41 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:44:41 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:44:41 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:44:51 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:44:52 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:44:57 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:45:08 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:45:08 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:45:08 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:45:08 PM - loginPage - INFO: Element found with locator: //body[@id='create']/ul//ul[@class='add-q-menu-left']/li[1]/div/a[@href='#']/span[@class='listText'] and  locatorType: xpath
+06/14/2021 11:45:09 PM - loginPage - INFO: Clicked on element with locator: //body[@id='create']/ul//ul[@class='add-q-menu-left']/li[1]/div/a[@href='#']/span[@class='listText'] locatorType: xpath
+06/14/2021 11:45:09 PM - loginPage - INFO: Element found with locator: //tbody/tr[4]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:45:10 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[4]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:45:10 PM - loginPage - INFO: Element found with locator: //tbody/tr[5]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:45:10 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[5]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:45:10 PM - loginPage - INFO: Element found with locator: //tbody/tr[6]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:45:11 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[6]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:45:11 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:45:11 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:45:11 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:45:22 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:45:22 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:45:23 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:45:23 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:45:23 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:45:23 PM - loginPage - INFO: Element found with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a and  locatorType: xpath
+06/14/2021 11:45:24 PM - loginPage - INFO: Clicked on element with locator: //body[@id='create']/ul/li/ul[2]/li[7]/div/a locatorType: xpath
+06/14/2021 11:45:24 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:45:24 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:45:32 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:45:33 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:45:33 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:45:44 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:45:44 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:45:44 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:45:58 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:45:59 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:46:17 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:46:17 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:46:32 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:46:33 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:46:40 PM - loginPage - INFO: Element found with locator: //tbody/tr[4]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:46:40 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[4]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:46:40 PM - loginPage - INFO: Element found with locator: //tbody/tr[5]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:46:40 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[5]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:46:40 PM - loginPage - INFO: Element found with locator: //tbody/tr[6]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:46:41 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[6]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:46:41 PM - loginPage - INFO: Element found with locator: //tbody/tr[7]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:46:42 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[7]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:46:42 PM - loginPage - INFO: Element found with locator: //tbody/tr[8]/td[2]/div/div[1] and  locatorType: xpath
+06/14/2021 11:46:42 PM - loginPage - INFO: Sent data on element with locator: //tbody/tr[8]/td[2]/div/div[1] locatorType: xpath
+06/14/2021 11:46:42 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:46:43 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:46:43 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:46:54 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:46:54 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:46:54 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:47:02 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:47:13 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:47:18 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:47:19 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:47:19 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:47:19 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:47:24 PM - loginPage - INFO: Element found with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:47:25 PM - loginPage - INFO: Sent data on element with locator: //table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:47:25 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:47:25 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:47:30 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[3]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:47:31 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[3]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:47:31 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[4]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:47:31 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[4]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:47:36 PM - loginPage - INFO: Element found with locator: //tbody[@class='columnSetting singleLine']//child::tr[5]//child::td[1]//child::div[1]//child::div[1] and  locatorType: xpath
+06/14/2021 11:47:37 PM - loginPage - INFO: Sent data on element with locator: //tbody[@class='columnSetting singleLine']//child::tr[5]//child::td[1]//child::div[1]//child::div[1] locatorType: xpath
+06/14/2021 11:47:37 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:47:37 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:47:57 PM - loginPage - INFO: Element found with locator: changeQType and  locatorType: id
+06/14/2021 11:47:58 PM - loginPage - INFO: Clicked on element with locator: changeQType locatorType: id
+06/14/2021 11:47:58 PM - loginPage - INFO: Element found with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] and  locatorType: xpath
+06/14/2021 11:47:58 PM - loginPage - INFO: Clicked on element with locator: //a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Single Textbox')] locatorType: xpath
+06/14/2021 11:47:58 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:48:09 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:48:09 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:48:10 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:48:10 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:48:21 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:48:21 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:48:21 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:48:31 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:48:42 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:48:42 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:48:43 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:49:01 PM - loginPage - INFO: Element found with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] and  locatorType: xpath
+06/14/2021 11:49:01 PM - loginPage - INFO: Clicked on element with locator: //div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')] locatorType: xpath
+06/14/2021 11:49:11 PM - loginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/14/2021 11:49:22 PM - loginPage - INFO: Element not appeared on the web page
+06/14/2021 11:49:22 PM - loginPage - INFO: Element found with locator: editTitle and  locatorType: id
+06/14/2021 11:49:23 PM - loginPage - INFO: Sent data on element with locator: editTitle locatorType: id
+06/14/2021 11:49:33 PM - loginPage - INFO: Element found with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] and  locatorType: xpath
+06/14/2021 11:49:33 PM - loginPage - INFO: Clicked on element with locator: //button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')] locatorType: xpath

@@ -55,9 +55,8 @@ class loginPage(SeleniumDriver):
     # third question
     _date_time = "//a[@class='option add-q-item']//span[@class='listText' and contains(text(),'Date / Time')]"
     _date_time_inputbox = "//table[@id='rows']//div[@class='rte input notranslate mce-content-body mce-edit-focus']"
-    _date_time_farzi = "//a[@class='option add-q-item selected current']"
+    j_date_time_ = "//body[@id='create']/ul/li/ul[2]/li[7]/div/a"
 
-    # is k bad clear krna h text box
 
     # Fourth question
     _drop_down_option = "//a[@class='option add-q-item selected']//span[@class='listText' and contains(text(),'Dropdown')]"
@@ -69,7 +68,7 @@ class loginPage(SeleniumDriver):
     # next question button
     _next_question_button = "//div[@class='buttons']//a[@class='wds-button wds-button--sm wds-button--icon-left add-another' and contains(text(),'NEXT QUESTION')]"
 
-    # _next_question_button = "//div[@id='editQuestion']/section[@class='t1']//div[@class='buttons']/a[1]"
+
 
     # sixth question
     check_box_question_bank = "//tbody/tr[4]/td[2]/div/div[1]"
@@ -77,16 +76,17 @@ class loginPage(SeleniumDriver):
     check_box_graphic = "//tbody/tr[6]/td[2]/div/div[1]"
     check_box_template = "//tbody/tr[7]/td[2]/div/div[1]"
     check_box_collector = "//tbody/tr[8]/td[2]/div/div[1]"
-    # plus_sign_add_check_box = "/html[1]/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/article[1]/div[2]/section[1]/form[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/section[2]/div[2]/div[2]/div[1]/div[3]/table[1]/tbody[1]/tr[7]/td[4]/a[1]/span[1]"
+
 
     # seventh Question
     _service_lable = "//table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1]"
     _support_lable = "//table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1]"
     _responsiveness_lable = "//table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1]"
-    _rating_very_good = "//table[@id='rows']//child::tbody//child::tr[2]//child::td[1]//child::div[1]//child::div[1]"
-    _rating_good = "//table[@id='rows']//child::tbody//child::tr[3]//child::td[1]//child::div[1]//child::div[1]"
-    _rating_avrage = "//table[@id='rows']//child::tbody//child::tr[4]//child::td[1]//child::div[1]//child::div[1]"
-    _rating_below_avrage = "//table[@id='rows']//child::tbody//child::tr[5]//child::td[1]//child::div[1]//child::div[1]"
+    _rating_veryVgood_ = "//tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::div[1]"
+    _rating_very_good = "//tbody[@class='columnSetting singleLine']//child::tr[2]//child::td[1]//child::div[1]//child::span[@class='placeholder']"
+    _rating_good = "//tbody[@class='columnSetting singleLine']//child::tr[3]//child::td[1]//child::div[1]//child::div[1]"
+    _rating_avrage = "//tbody[@class='columnSetting singleLine']//child::tr[4]//child::td[1]//child::div[1]//child::div[1]"
+    _rating_below_avrage = "//tbody[@class='columnSetting singleLine']//child::tr[5]//child::td[1]//child::div[1]//child::div[1]"
 
     # DONE button
     _done_button = "//button[@class='wds-button wds-button--sm survey-page-button done-button notranslate' and contains(text(),'DONE')]"
@@ -160,9 +160,7 @@ class loginPage(SeleniumDriver):
         self.waitForElement(self._question_box)
         self.sendKeys("From when you are using ServerMonkey?", self._question_box)
         self.elementClick(self._multiple_choices_drop_down)
-        self.elementClick(self._single_text_box_option, locatorType="xpath")
-        # self.waitForElement(self._date_time_farzi, locatorType="xpath")
-        # self.elementClick(self._date_time_farzi)
+        self.elementClick(self.j_date_time_, locatorType="xpath")
         self.elementClick(self._next_question_button, locatorType="xpath")
 
     def fouthQuestion(self):
@@ -206,7 +204,7 @@ class loginPage(SeleniumDriver):
         self.sendKeys("Support", self._support_lable, locatorType="xpath")
         time.sleep(5)
         self.sendKeys("Responsiveness", self._responsiveness_lable, locatorType="xpath")
-        self.sendKeys("Very Good", self._rating_very_good, locatorType="xpath")
+        self.sendKeys("Very Good", self._rating_veryVgood_, locatorType="xpath")
         time.sleep(5)
         self.sendKeys("Good", self._rating_good, locatorType="xpath")
         self.sendKeys("Average", self._rating_avrage, locatorType="xpath")
@@ -239,7 +237,7 @@ class loginPage(SeleniumDriver):
         time.sleep(10)
         self.waitForElement(self._question_box)
         self.sendKeys("Comments / Feedback", self._question_box)
-        self.elementClick(self._next_question_button, locatorType="xpath")
+
 
     def doneButton(self):
         time.sleep(10)
@@ -250,21 +248,20 @@ class loginPage(SeleniumDriver):
         self.sendUsername(username)
         self.sendPassword(password)
         self.clickLoginButton()
-        # self.waitForElement(self._create_survey, locatorType="xpath")
         self.createSurvey()
         self.startfromscratch()
         self.survey()
         self.pagetitleclick()
-        # self.firstQuestion()
-        # self.secondQuestion()
-        # self.thirdQuestion()
-        # self.fouthQuestion()
-        # self.fifthQuestion()
-        # self.sixthQuestion()
+        self.firstQuestion()
+        self.secondQuestion()
+        self.thirdQuestion()
+        self.fouthQuestion()
+        self.fifthQuestion()
+        self.sixthQuestion()
         self.seventhQuestion()
-        # self.eightQuestion()
-        # self.ninthQuestion()
-        # self.tenthQuestion()
+        self.eightQuestion()
+        self.ninthQuestion()
+        self.tenthQuestion()
         self.doneButton()
 
     def verifyLoginSuccessful(self):
